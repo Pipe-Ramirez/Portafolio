@@ -1,10 +1,7 @@
 # Curso de Accesibilidad Web
 
-En este curso, mejoraremos la accesibilidad un portafolio personal. Espero que aprendas mucho y que uses lo que aprendas aqui para implementar
-prácticas accesibles en tu propio portafolio!
+Colegas quiero compartir una plantilla estática de portafolio de perfil profesional que realice en la plataforma de Platzi,
+es un pequeño desarrollo el cual puedes descrgar y modificar para tu presentación.
+Es pero que sea de su agrado.
 
-Usa esta URL para probar la accesibilidad con Lighthouse al principio del curso:
-https://gmzjuliana.github.io/curso-acessibilidad-web/index.html
-
-Usa esta URL para probar la accesibilidad al final:
-https://gmzjuliana.github.io/curso-acessibilidad-web/final.html
+Se debe ejecutar el archivo index.html
